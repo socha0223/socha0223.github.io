@@ -1,0 +1,12 @@
+body{
+background-image: url("../img/top page/sgfi.jpg");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+.menu{
+  margin: 5em 5em;
+  color: #ffff;
+  text-decoration: none;
+  padding: 15px 0;
+}
